@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vegetablesToDie.github.io</id>
+    <id>https://vegetablestodie.github.io/</id>
     <title>handSpeaker_Chen</title>
-    <updated>2021-09-11T10:18:22.610Z</updated>
+    <updated>2021-09-11T10:23:59.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://vegetablesToDie.github.io"/>
-    <link rel="self" href="https://vegetablesToDie.github.io/atom.xml"/>
+    <link rel="alternate" href="https://vegetablestodie.github.io/"/>
+    <link rel="self" href="https://vegetablestodie.github.io/atom.xml"/>
     <subtitle>做事第一要义是用心，做大事第一要义是用人</subtitle>
-    <logo>https://vegetablesToDie.github.io/images/avatar.png</logo>
-    <icon>https://vegetablesToDie.github.io/favicon.ico</icon>
+    <logo>https://vegetablestodie.github.io/images/avatar.png</logo>
+    <icon>https://vegetablestodie.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, handSpeaker_Chen</rights>
     <entry>
         <title type="html"><![CDATA[111]]></title>
-        <id>https://vegetablesToDie.github.io/post/111/</id>
-        <link href="https://vegetablesToDie.github.io/post/111/">
+        <id>https://vegetablestodie.github.io/post/111/</id>
+        <link href="https://vegetablestodie.github.io/post/111/">
         </link>
         <updated>2021-09-11T08:57:54.000Z</updated>
         <content type="html"><![CDATA[<p>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</p>
@@ -21,15 +21,15 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[我测试一下哦]]></title>
-        <id>https://vegetablesToDie.github.io/post/wo-ce-shi-yi-xia-e/</id>
-        <link href="https://vegetablesToDie.github.io/post/wo-ce-shi-yi-xia-e/">
+        <id>https://vegetablestodie.github.io/post/wo-ce-shi-yi-xia-e/</id>
+        <link href="https://vegetablestodie.github.io/post/wo-ce-shi-yi-xia-e/">
         </link>
         <updated>2021-09-11T08:54:25.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://vegetablesToDie.github.io/post/hello-gridea/</id>
-        <link href="https://vegetablesToDie.github.io/post/hello-gridea/">
+        <id>https://vegetablestodie.github.io/post/hello-gridea/</id>
+        <link href="https://vegetablestodie.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
